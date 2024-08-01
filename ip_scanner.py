@@ -4,7 +4,7 @@ import socket
 import sys
 import subprocess
 from datetime import datetime
-
+./ .banner
 def clear_screen():
     
     if platform.system() == "Windows":
