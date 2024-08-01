@@ -1,0 +1,11 @@
+cyan='\e[1;36m%s\e[0m\n'
+printf "$cyan"
+ printf "$cyan" " .--------------------------------.           "
+ printf "$cyan" " |  Hi Hackers                    |           "
+ printf "$cyan" " |  Tool   : ip scanner           |           "
+ printf "$cyan" " |  Author : @ALBINJoseph01       |           "
+ printf "$cyan" " |                                |           "
+ printf "$cyan" " '--------------------------------'           "
+printf "$cyan" ""
+printf "$cyan" "tool for showing live ip address "
+echo ""
